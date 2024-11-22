@@ -1,2 +1,1 @@
-# ethan-portfolio-starter# portfolio
-# portfolio
+# personal portfolio using next-js & framer motion
